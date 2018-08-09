@@ -9,3 +9,6 @@ git push /// esse empurra os arquivos para o git hub///
 gis status /// ve as modificações no arquivo ////
 
 se colocar //git add .// ele atualiza todos os arquivos 
+
+
+e vamos testar aqui tbm.
